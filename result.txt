@@ -1,0 +1,16 @@
+{'content': 'Please proceed with my interview', 'role': 'user'} 
+{'content': "Thank you for participating in this interview. Let's begin by discussing the problem that you want to solve. Can you please tell me more about the specific issue or challenge that you are facing?", 'role': 'user'} 
+{'content': 'I want to promote my product on twitter', 'role': 'user'} 
+{'content': 'Great! Promoting your product on Twitter can be an effective way to reach a wider audience. To better understand your needs, could you please provide some more details about your product? What is it, and what are your goals for promoting it on Twitter?', 'role': 'user'} 
+{'content': 'I have an edtech platform & the name is "PW"', 'role': 'user'} 
+{'content': 'Thank you for sharing that information. Could you please tell me more about your edtech platform, PW? What specific features or services does it offer? Additionally, what are your main objectives or goals for promoting PW on Twitter? Are you looking to increase brand awareness, drive website traffic, or generate leads?', 'role': 'user'} 
+{'content': 'Ok I want to generate more leads, & my platform is about the assessments. It will take AI based assessments', 'role': 'user'} 
+{'content': 'Thank you for providing those details. Generating leads for your edtech platform, PW, through Twitter is a great objective. To better understand your target audience and how to effectively reach them, could you please share some information about the specific types of assessments your platform offers? Additionally, do you have any specific preferences or requirements for the leads you are looking to generate?', 'role': 'user'} 
+{'content': 'No I dont have more information about the platform', 'role': 'user'} 
+{'content': "Understood. In that case, let's focus on your objective of generating leads for your edtech platform, PW, through Twitter. Can you please provide some information about your target audience? Who are the ideal users or customers that you would like to attract to your platform? Are there any specific demographics, industries, or job roles that you are targeting?", 'role': 'user'} 
+{'content': 'NO dont know about this', 'role': 'user'} 
+{'content': "That's alright. We can work with the information you have provided so far. To ensure we are on the same page, let's move on to discussing the timeline for completing this task. When would you ideally like to start promoting your product on Twitter and by when would you like to see results in terms of generating leads?", 'role': 'user'} 
+{'content': 'I want it for 45 days', 'role': 'user'} 
+{'content': 'Thank you for providing the timeline. To clarify, you would like to start promoting your product on Twitter and see results in terms of generating leads within a 45-day period. Is that correct?', 'role': 'user'} 
+{'content': 'yes', 'role': 'user'} 
+{'content': 'Thank you for confirming. I have gathered all the necessary information about your problem and your desired timeline. This will be helpful for our planner team to work on finding a suitable solution for you. Is there anything else you would like to add or any specific concerns you have regarding promoting your product on Twitter and generating leads within the given timeframe?', 'role': 'user'} 
